@@ -1,7 +1,7 @@
 # GestaoFinanceiraPy
 para testar a função de VTL: python main.py
-- VPL(C0, Fc, TMA, n)
-- plot_VPL(C0, Fc, TMA, n)
+VPL(C0, Fc, TMA, n)
+plot_VPL(C0, Fc, TMA, n)
 
 - C0 = Investimento Inicial
 - Fc = Fluxo de Caixa
